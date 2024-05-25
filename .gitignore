@@ -1,2 +1,5 @@
 .venv
 ./data/instagram/*
+
+__pycache__/
+*.py[cod]
