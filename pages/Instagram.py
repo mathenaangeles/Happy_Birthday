@@ -4,7 +4,6 @@ import pandas as pd
 import json
 import os
 from collections import Counter
-from wordcloud import WordCloud
 import matplotlib.pyplot as plt
 
 
