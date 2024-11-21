@@ -1,6 +1,6 @@
 # Happy Birthday
 
-Happy Birthday is a [Streamlit](https://streamlit.io/) app that allows users to add a custom birthday message for the recipient and to analyze their Instagram chat data.
+Happy Birthday is a [Streamlit](https://streamlit.io/) app that allows users to analyze their Instagram chat data with the recipient and to add a custom birthday message.
 
 ## Getting Started
 1. Create a virtual environment and activate it.
